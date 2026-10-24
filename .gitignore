@@ -1,0 +1,7 @@
+# Obsidian: per-machine state stays local; app.json travels
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+# Plugin code/config/logs stay local: each machine installs plugins itself.
+# Only the plugin list (community-plugins.json) is synced.
+.obsidian/plugins/
